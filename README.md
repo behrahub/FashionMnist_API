@@ -32,7 +32,7 @@ docker run -p 5000:5000 fashion_image
 
 There are 2 ways to test this endpoint
 
-1) The easiest way is to use the included python notebook  ('http://127.0.0.1:5000/predict')
+1) The easiest way is to use the included python notebook  ('https://github.com/behrahub/FashionMnist_API/blob/master/fashion_mnist_model_generation.ipynb')
 2) Run the entire notebook which will setup the test data.
 3) At the bottom of the notebook, you have a test infrastructure which will hit the local container. 
 
